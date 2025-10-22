@@ -1,0 +1,17 @@
+1)O que acontece se você não passar o segundo parâmetro ([]) no useEffect?
+O código presente no useEffect será executado uma única vez, ao abrir a página.
+
+2)Explique o conceito de props no React. Por que é importante que
+componentes recebam dados através das props?
+Props são as informações passadas para os components a partir de um elemento pai. Recebendo dados 
+através das props, os components se tornam mais dinâmicos e versáteis, centralizando o local de onde
+se obtém uma determinada informação.
+
+3)O que o TailwindCSS oferece de vantagem em relação ao CSS tradicional?
+Permite que os estilos sejam definidos na própria classe do elemento, sem necessitar de um arquivo
+css dedicado ou um style inline extenso. O Tailwind oferece estilos "prontos", o que facilita o processo de estilização
+da página.
+
+4)Identifique o problema no código abaixo e marque a alternativa que exibe o
+problema do código.
+Letra C
